@@ -9,9 +9,6 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
-    lateinit var nama : TextView
-    lateinit var nim : TextView
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -22,8 +19,8 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        nama = findViewById(R.id.nama)
-        nim = findViewById(R.id.nim)
+        val nama : TextView = findViewById(R.id.nama)
+        val nim : TextView = findViewById(R.id.nim)
 
         nama.text = "Noval Raihan Ramadhan"
         nim.text = "225150407111056"
