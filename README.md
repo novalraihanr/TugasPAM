@@ -1,4 +1,4 @@
-Nama : Noval Raihan Ramadhan
+Nama : Noval Raihan Ramadhan\n
 NIM : 225150407111056
 
 ## Tugas PAM
