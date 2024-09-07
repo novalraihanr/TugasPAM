@@ -7,10 +7,10 @@ NIM : 225150407111056
   > Buat project di gitlab atau github, kumpulkan url link project github/gitlab
 - Tugas 2 :
   > Buat aplikasi :
-  > 2 input edittext
-  > 1 radio button : +,-,*, /
-  > 1 tombol "hitung"
-  > Jika tombol hitung ditekan, lakukan perhitungan sesuai dengan operasi yang dipilih radiobutton
-  > Tampilkan hasil perhitungan dan nim, nama di halaman kedua
-  > Buat project di gitlab atau github, kumpulkan url link project github/gitlab
+  > - 2 input edittext
+  > - 1 radio button : +,-,*, /
+  > - 1 tombol "hitung"
+  > - Jika tombol hitung ditekan, lakukan perhitungan sesuai dengan operasi yang dipilih radiobutton
+  > - Tampilkan hasil perhitungan dan nim, nama di halaman kedua
+  > - Buat project di gitlab atau github, kumpulkan url link project github/gitlab
 - TBA
