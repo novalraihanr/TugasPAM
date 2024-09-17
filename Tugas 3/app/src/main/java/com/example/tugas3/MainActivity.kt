@@ -265,7 +265,7 @@ fun display(){
 @Composable
 fun namaNim(){
     Column(Modifier.fillMaxWidth(), verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
-        Text(text = "Tugas 2", Modifier.padding(bottom = 12.dp) ,style = MaterialTheme.typography.displaySmall)
+        Text(text = "Tugas 3", Modifier.padding(bottom = 12.dp) ,style = MaterialTheme.typography.displaySmall)
         Text(text = "Noval Raihan Ramadhan", style = MaterialTheme.typography.bodyLarge)
         Text(text = "225150407111056")
     }
