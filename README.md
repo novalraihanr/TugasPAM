@@ -15,3 +15,5 @@
   > - Buat project di gitlab atau github, kumpulkan url link project github/gitlab
 - Tugas 3 :
   > Buat aplikasi kalkulator dengan tombol 0 sampai 9 dan oerasi tambah, kali, bagi dan kurangi.
+- Tugas 4 :
+  > Buat aplikasi menampilkan dan menambah data static menggunakan recycler view.
